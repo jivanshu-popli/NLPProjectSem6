@@ -92,10 +92,6 @@ Scripts are located in the directory: `scripts`
 
 You can use the `--help` command to learn about possible parameters passed to the scripts.
 
-### Outputs
-
-In the directories `project1_output`, we store all output files (such as embeddings, plots, images etc.)
-
 ### Dataset
 
 The directory `datasets` contains data used in the project. In addition, in the directory new embeddings using for training probing tasks are saved.
