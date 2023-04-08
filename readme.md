@@ -10,7 +10,7 @@ Vansh Kapila (2020UCM2337)
 
 ---
 
- The project was created during the Natural Language Processing (NLP) course at Netaji Subhas University of Technology during our 6th Semester.
+ The project has been created during the Natural Language Processing (NLP) course at Netaji Subhas University of Technology during our 6th Semester.
 
 ---
 
