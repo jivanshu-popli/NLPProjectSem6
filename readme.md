@@ -1,6 +1,10 @@
 E-COMMERCE Probing tasks
 ============
-Authors: Mehul Gulati(2020UCM2362) | Jivanshu Popli(2020UCM2319) | Vansh Kapila(2020UCM2337)
+Authors: 
+
+Mehul Gulati(2020UCM2362) 
+Jivanshu Popli(2020UCM2319) 
+Vansh Kapila(2020UCM2337)
 ---
 
  The project was created during the Natural Language Processing (NLP) course at Netaji Subhas University of Technology during our 6th Semester.
